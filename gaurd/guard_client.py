@@ -98,7 +98,7 @@ print(auth_headers)
 
 history_filters = {
     'timestamp': {
-        'from': "2018-01-03T16:20:50.780Z",
+        'from': "2020-01-03T16:20:50.780Z",
         'to': "2020-06-25T16:20:50.780Z"
     },
     'filter': {
